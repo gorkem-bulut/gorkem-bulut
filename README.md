@@ -2,7 +2,7 @@
 <h3 align="center">Currently, I'm developing my skills in Unity and game design related to my interests and attending skills training programs. I aim to get a role in the video game industry in the following months.Currently, I'm developing my skills in Unity and game design related to my interests and attending skills training programs. I aim to get a role in the video game industry in the following months</h3>
 
 
-- 📫 How to reach me **gorkembulut00@gmail.com**
+📫 How to reach me **gorkembulut00@gmail.com**
 
   
 <h3 align="left">Languages and Tools:</h3>
