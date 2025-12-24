@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Görkem</h1>
-<h3 align="center">Currently, I'm developing my skills in Python programming related to my interests and attending skills training programs. I aim to get a role in the software industry in the following months.</h3>
-
-
-📫 How to reach me **gorkembulut00@gmail.com**
+<h3 align="center">Escaped the digital wormhole.nThriving in the paper wasteland.</h3>
 
   
 <h3 align="left">Languages and Tools:</h3>
